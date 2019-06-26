@@ -1,7 +1,4 @@
-//create a synth and connect it to the master output (your speakers)
 
-
-//play a middle 'C' for the duration of an 8th note
 
 
 document.addEventListener('DOMContentLoaded', () => {
